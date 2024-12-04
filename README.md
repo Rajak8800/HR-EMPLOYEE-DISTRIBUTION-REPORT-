@@ -41,3 +41,6 @@ Limitations
     Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
     Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
 # HR-EMPLOYEE-DISTRIBUTION-REPORT-
+![Screenshot 2024-11-26 134857](https://github.com/user-attachments/assets/9181025e-cce8-42a1-9603-0c6bf11d248d)
+
+
