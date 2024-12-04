@@ -1,6 +1,9 @@
 # HR-EMPLOYEE-DISTRIBUTION-REPORT-
 
+
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
+
+![Screenshot 2024-11-26 134830](https://github.com/user-attachments/assets/a163b655-3ea9-4803-ae1c-14197b455daa)
 
 Data Cleaning & Analysis - MySQL Workbench
 
